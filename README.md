@@ -1,2 +1,2 @@
 # rpg-ihm
-ihm du rpg textuel
+ihm du rpg textuel -> https://github.com/saiyanjin/rpg-textuel
